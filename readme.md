@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github
 
 This is a new line
+
+This is a new line in a new branch made in local branch
